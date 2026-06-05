@@ -93,6 +93,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## External Apps
 
+* [ARAM Mayhem](https://arammayhem.com/) - ARAM Mayhem tier lists, champion builds, augment stats, items, and patch notes.
+
 * [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
 
 * [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
